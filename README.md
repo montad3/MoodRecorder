@@ -13,15 +13,6 @@ Built with [Streamlit](https://streamlit.io/), [Google Sheets](https://www.googl
 - Appends entries to a shared Google Sheet
 - Visualizes today's mood entries in a live bar chart
 
----
-
-## 📸 Demo
-
-![demo](https://user-images.githubusercontent.com/your-demo-screenshot.gif)
-
-> Replace with Loom walkthrough or screenshot if needed.
-
----
 
 ## 🛠️ How It Works
 
